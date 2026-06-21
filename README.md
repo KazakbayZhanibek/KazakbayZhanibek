@@ -46,4 +46,4 @@ Forum web app with roles, migrations, XP system, and database logic.
 
 - Telegram: [@@tibio_404](https://t.me/@tibio_404)
 - Email: janibekkaz3@gmail.com
-- LinkedIn: [Zhanibek Kazakbay](Просмотрите профиль участника Zhanibek Kazakbay в LinkedIn)
+- LinkedIn: [Zhanibek Kazakbay](https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359)
