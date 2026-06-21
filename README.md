@@ -44,6 +44,6 @@ Forum web app with roles, migrations, XP system, and database logic.
 
 ## 📫 Contact
 
-- Telegram: [@your_username](https://t.me/your_username)
-- Email: yourmail@example.com
-- LinkedIn: [your profile](https://linkedin.com/in/yourname)
+- Telegram: [@@tibio_404](https://t.me/@tibio_404)
+- Email: janibekkaz3@gmail.com
+- LinkedIn: [Zhanibek Kazakbay](Просмотрите профиль участника Zhanibek Kazakbay в LinkedIn)
