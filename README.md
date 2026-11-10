@@ -1,49 +1,69 @@
 <h1 align="center">Hi, I'm Kazakbay Janibek 👋</h1>
+
 <p align="center">
-  Full-Stack Developer • CS Student • Building useful web products
+  Full-stack developer · Computer Science student · Kazakhstan
 </p>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=KazakbayZhanibek&theme=github_dark" alt="GitHub Stats" />
+  <a href="mailto:janibekkaz3@gmail.com">Email</a> ·
+  <a href="https://t.me/tibio_404">Telegram</a> ·
+  <a href="https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359">LinkedIn</a>
 </p>
 
----
+## About me
 
-## 🚀 About Me
+I build web applications, dashboards, and educational products.
+My interests include practical AI integrations, backend architecture,
+and turning product ideas into working MVPs.
 
-- 🎓 CS student from Kazakhstan
-- 💻 I build full-stack apps, dashboards, and educational products
-- 🤖 Interested in AI integration, startups, and scalable web systems
-- 📚 Currently improving React, Node.js, SQL, Docker, and backend architecture
+## Featured projects
 
-## 🛠 Tech Stack
+### 🎓 EduMatch KZ
 
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express`  
-`Python` `Django` `C#` `.NET` `SQL Server` `Docker`  
-`HTML` `CSS` `Git` `REST API`
+An AI-powered platform that helps students choose universities
+in Kazakhstan.
 
-## 📌 Featured Projects
+**Built with:** Node.js, Express, SQLite, HTML, CSS, JavaScript
 
-### EduMatch KZ
-AI-powered platform that helps students choose universities in Kazakhstan.  
-**Stack:** Node.js, Express, SQLite, HTML/CSS/JS, AI integration
+### 🥐 Belle Croissant Lyonnais
 
-### Belle Croissant Lyonnais
-Desktop/web management system for bakery operations.  
-**Stack:** Python, Django, PyWebView
+A bakery operations management system built with Django
+and a PyWebView desktop interface.
 
-### Forum Platform
-Forum web app with roles, migrations, XP system, and database logic.  
-**Stack:** HTML, CSS, JavaScript, SQL
+**Built with:** Python, Django, PyWebView
 
-## 🎯 Current Goals
+### 💬 Forum Platform
 
-- Build stronger production-ready full-stack apps
-- Launch startup-oriented MVPs
-- Improve system design, backend quality, and DevOps skills
+A forum application featuring user roles, an XP system,
+database migrations, and SQL-based application logic.
 
-## 📫 Contact
+**Built with:** HTML, CSS, JavaScript, SQL
 
-- Telegram: [@@tibio_404](https://t.me/@tibio_404)
-- Email: janibekkaz3@gmail.com
-- LinkedIn: [Zhanibek Kazakbay](https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359)
+## Technologies I work with
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, HTML, CSS |
+| Backend | Node.js, Express, Python, Django, C#, .NET |
+| Databases | SQLite, SQL Server |
+| Tools | Git, Docker |
+| APIs | REST APIs, AI integrations |
+
+## Current focus
+
+- Deepening my React, Node.js, and SQL skills
+- Improving backend architecture and system design
+- Using Docker to build more consistent development environments
+- Building MVPs with a path toward production
+
+<details>
+  <summary>GitHub statistics</summary>
+
+  <br />
+
+  <img
+    src="https://ghstats.dev/api/card?username=KazakbayZhanibek&theme=github_dark"
+    alt="GitHub statistics for KazakbayZhanibek"
+  />
+
+</details>
