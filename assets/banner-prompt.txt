@@ -1,0 +1,11 @@
+Use case: logo-brand
+Asset type: personal GitHub profile README banner.
+Create a finished, premium designer-quality wide horizontal banner, exact 3:1 aspect ratio, preferred 1800 x 600 pixels. The subject is full-stack developer Kazakbay Janibek. This must be a usable polished banner, not a screenshot of a website or a mockup.
+
+Composition: asymmetric editorial design, generous negative space. Left 58 percent holds a beautiful readable typographic lockup. Right 42 percent holds a refined abstract architectural sculptural arrangement of 3 translucent smoked-glass layers suggesting application windows, angled in subtle perspective, with delicate muted mint edges and a little realistic soft light. Quiet precision, crafted visual depth, no clutter. Flat full-bleed background, no outer frame.
+
+Palette: near-black graphite #0d1117, warm ivory typography #f2efe6, restrained muted mint #94d6bb. Very subtle fine film grain only. No purple, bright neon, or rainbow gradient.
+
+Text must be exact and perfectly spelled. At upper left, small widely tracked uppercase: "FULL-STACK DEVELOPER". Below it, very large bold elegant contemporary sans-serif on two visually balanced lines: "Kazakbay" and "Janibek". Below name, smaller regular sans-serif: "From ideas to useful products." Near bottom left, tiny uppercase: "KAZAKHSTAN  /  COMPUTER SCIENCE". The name is the dominant visual element. Keep text clearly inside safe margins, never cropped. All text must be effortlessly readable at GitHub width. Aim for typography like a premium independent design studio with impeccable spacing.
+
+Constraints: no additional text, no dates, no skill percentages, no stats, no availability claims, no logos, no badges, no icons grid, no hacker symbols, no laptop or person, no generic circuit patterns, no watermarks. Sophisticated understated composition, crisp clean letterforms, intentional breathing room.
