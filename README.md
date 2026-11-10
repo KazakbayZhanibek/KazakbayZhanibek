@@ -1,69 +1,111 @@
-<h1 align="center">Hi, I'm Kazakbay Janibek 👋</h1>
-
 <p align="center">
-  Full-stack developer · Computer Science student · Kazakhstan
+  <img src="./assets/banner.png" width="100%" alt="Kazakbay Janibek — Full-stack developer. From ideas to useful products. Computer Science student from Kazakhstan." />
 </p>
 
 <p align="center">
-  <a href="mailto:janibekkaz3@gmail.com">Email</a> ·
-  <a href="https://t.me/tibio_404">Telegram</a> ·
-  <a href="https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359">LinkedIn</a>
+  <a href="https://t.me/tibio_404"><img src="./assets/contact-telegram.svg" height="32" alt="Message me on Telegram" /></a>
+  <a href="mailto:janibekkaz3@gmail.com"><img src="./assets/contact-email.svg" height="32" alt="Email janibekkaz3@gmail.com" /></a>
+  <a href="https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359"><img src="./assets/contact-linkedin.svg" height="32" alt="Connect on LinkedIn" /></a>
 </p>
 
-## About me
+<br />
 
-I build web applications, dashboards, and educational products.
-My interests include practical AI integrations, backend architecture,
-and turning product ideas into working MVPs.
+## A little about me
 
-## Featured projects
+I'm a **Computer Science student from Kazakhstan** building full-stack applications,
+dashboards, and educational products. I enjoy connecting thoughtful interfaces
+with practical backend systems.
 
-### 🎓 EduMatch KZ
+I'm especially interested in **AI integrations**, **startup MVPs**, and the
+architecture behind reliable web applications.
 
-An AI-powered platform that helps students choose universities
-in Kazakhstan.
+## Selected work
 
-**Built with:** Node.js, Express, SQLite, HTML, CSS, JavaScript
+<table>
+  <tr>
+    <td width="35%" valign="top">
+      <h3><a href="https://github.com/KazakbayZhanibek/edumatch.kz">EduMatch KZ ↗</a></h3>
+      <p><sub>01 / EDUCATION · AI</sub></p>
+    </td>
+    <td width="65%" valign="top">
+      <p>An AI-powered platform that helps students choose universities in Kazakhstan.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>SQLite</code><br /><code>HTML / CSS / JavaScript</code> <code>AI integration</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Belle Croissant Lyonnais</h3>
+      <p><sub>02 / BUSINESS SOFTWARE</sub></p>
+    </td>
+    <td valign="top">
+      <p>A desktop and web management system for bakery operations.</p>
+      <p><code>Python</code> <code>Django</code> <code>PyWebView</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Forum Platform</h3>
+      <p><sub>03 / COMMUNITY</sub></p>
+    </td>
+    <td valign="top">
+      <p>A forum application with user roles, an XP system, database migrations, and SQL-based application logic.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>SQL</code></p>
+    </td>
+  </tr>
+</table>
 
-### 🥐 Belle Croissant Lyonnais
+[Browse all repositories →](https://github.com/KazakbayZhanibek?tab=repositories)
 
-A bakery operations management system built with Django
-and a PyWebView desktop interface.
+## My toolbox
 
-**Built with:** Python, Django, PyWebView
+<p><sub><b>FRONTEND</b></sub></p>
+<p>
+  <img src="./assets/javascript.svg" height="32" alt="JavaScript" />
+  <img src="./assets/typescript.svg" height="32" alt="TypeScript" />
+  <img src="./assets/react.svg" height="32" alt="React" />
+  <img src="./assets/nextjs.svg" height="32" alt="Next.js" />
+  <img src="./assets/html.svg" height="32" alt="HTML" />
+  <img src="./assets/css.svg" height="32" alt="CSS" />
+</p>
 
-### 💬 Forum Platform
+<p><sub><b>BACKEND</b></sub></p>
+<p>
+  <img src="./assets/nodejs.svg" height="32" alt="Node.js" />
+  <img src="./assets/express.svg" height="32" alt="Express" />
+  <img src="./assets/python.svg" height="32" alt="Python" />
+  <img src="./assets/django.svg" height="32" alt="Django" />
+  <img src="./assets/csharp.svg" height="32" alt="C#" />
+  <img src="./assets/dotnet.svg" height="32" alt=".NET" />
+</p>
 
-A forum application featuring user roles, an XP system,
-database migrations, and SQL-based application logic.
+<p><sub><b>DATABASES &amp; TOOLS</b></sub></p>
+<p>
+  <img src="./assets/sqlite.svg" height="32" alt="SQLite" />
+  <img src="./assets/sqlserver.svg" height="32" alt="SQL Server" />
+  <img src="./assets/docker.svg" height="32" alt="Docker" />
+  <img src="./assets/git.svg" height="32" alt="Git" />
+  <img src="./assets/rest.svg" height="32" alt="REST APIs" />
+</p>
 
-**Built with:** HTML, CSS, JavaScript, SQL
+## What I'm working toward
 
-## Technologies I work with
+- **Better foundations** — deepening my React, Node.js, and SQL skills.
+- **Stronger systems** — improving backend architecture, system design, and Docker workflows.
+- **Useful products** — turning startup ideas into MVPs and production-ready applications.
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | JavaScript, TypeScript, React, Next.js, HTML, CSS |
-| Backend | Node.js, Express, Python, Django, C#, .NET |
-| Databases | SQLite, SQL Server |
-| Tools | Git, Docker |
-| APIs | REST APIs, AI integrations |
-
-## Current focus
-
-- Deepening my React, Node.js, and SQL skills
-- Improving backend architecture and system design
-- Using Docker to build more consistent development environments
-- Building MVPs with a path toward production
+<br />
 
 <details>
-  <summary>GitHub statistics</summary>
-
+  <summary><b>A look at my GitHub activity</b></summary>
   <br />
-
-  <img
-    src="https://ghstats.dev/api/card?username=KazakbayZhanibek&theme=github_dark"
-    alt="GitHub statistics for KazakbayZhanibek"
-  />
-
+  <p align="center">
+    <img src="https://ghstats.dev/api/card?username=KazakbayZhanibek&amp;theme=github_dark" alt="GitHub statistics for KazakbayZhanibek" />
+  </p>
 </details>
+
+---
+
+<p align="center">
+  <b>Have an idea worth building?</b><br />
+  <a href="https://t.me/tibio_404">Let's talk on Telegram ↗</a>
+</p>
