@@ -1,5 +1,12 @@
 <p><img src="./assets/banner.png" width="100%" alt="Kazakbay Janibek — full-stack developer and computer science student in Kazakhstan" /></p>
 
+<p>
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="./assets/paper-flight.svg" />
+    <img src="./assets/paper-flight-still.svg" width="100%" alt="" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="./assets/stack/typescript.svg" height="38" alt="TypeScript" />
   <img src="./assets/stack/react.svg" height="38" alt="React" />

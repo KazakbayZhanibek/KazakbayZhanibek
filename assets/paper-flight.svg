@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="96" viewBox="0 0 1000 96" role="img" aria-labelledby="title">
+  <title id="title">A paper plane gliding over sunlit hills</title>
+  <defs>
+    <clipPath id="frame"><rect width="1000" height="96" rx="4"/></clipPath>
+    <pattern id="dots" width="5" height="5" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r=".65" fill="#865d46" opacity=".34"/>
+    </pattern>
+  </defs>
+  <style>
+    /* The initial pose also serves as the still illustration. */
+    .flight { transform: translate(475px, 32px); }
+    .fold { transform: rotate(-5deg); }
+    @media (prefers-reduced-motion: no-preference) {
+      .flight { animation: cross 13s linear -6.1s infinite; }
+      .lift { animation: lift 6.5s ease-in-out -1.2s infinite alternate; }
+      .fold { animation: bank 6.5s ease-in-out -1.2s infinite alternate; }
+    }
+    @keyframes cross {
+      from { transform: translate(-125px, 34px); }
+      to { transform: translate(1125px, 34px); }
+    }
+    @keyframes lift {
+      from { transform: translateY(10px); }
+      to { transform: translateY(-9px); }
+    }
+    @keyframes bank {
+      from { transform: rotate(4deg); }
+      to { transform: rotate(-7deg); }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="96" fill="#f8e9cb"/>
+    <circle cx="795" cy="55" r="32" fill="#ff814d"/>
+    <path d="M0 74 88 51 139 57 195 36 269 66 329 62 409 73 470 55 565 77 642 65 693 71 742 54 795 70 862 48 909 64 964 54 1000 62V96H0Z" fill="#a5b9a0"/>
+    <path d="m132 59 63-23 32 13-30-4-18 7 7-6zM817 62l45-14 26 10-29-4z" fill="#dce2c5"/>
+    <path d="M0 87Q78 65 147 73T285 78Q345 58 413 71T555 85Q645 57 730 68T872 74Q950 53 1000 67V96H0Z" fill="#72a69b"/>
+    <path d="M0 86Q97 65 187 88T394 84Q480 70 575 88T771 83Q862 62 947 77L1000 86V96H0Z" fill="#347976"/>
+    <path d="M0 86Q97 65 187 88T394 84Q480 70 575 88T771 83Q862 62 947 77L1000 86V96H0Z" fill="url(#dots)"/>
+    <path d="M122 96q32-12 72-12-29 5-47 12zm721 0q39-20 90-21-43 7-62 21z" fill="#efbe74"/>
+    <g class="flight">
+      <g class="lift">
+        <g class="fold">
+          <g fill="none" stroke-linecap="round" stroke-width="1.7">
+            <path d="m-56 11 18-3m-31 5 6-1" stroke="#7a846f"/>
+            <path d="m-32 1 13-2m-27 20 16-4" stroke="#a6ac90"/>
+          </g>
+          <path d="M-12-13 48-10 4 16-2 5-14 8-7-1Z" fill="#fff9dc" stroke="#283b47" stroke-width="1.7" stroke-linejoin="round"/>
+          <path d="M-7-1 48-10-2 5-14 8Z" fill="#8cbecc" stroke="#283b47" stroke-width="1.1" stroke-linejoin="round"/>
+          <path d="M-2 5 48-10 4 16Z" fill="#ffb657" stroke="#283b47" stroke-width="1.1" stroke-linejoin="round"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
