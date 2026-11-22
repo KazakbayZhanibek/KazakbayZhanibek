@@ -1,26 +1,29 @@
-<p><img src="./assets/banner.png" width="100%" alt="Kazakbay Janibek, full-stack developer and computer science student in Kazakhstan" /></p>
+<p><img src="./assets/banner.png" width="100%" alt="Kazakbay Janibek — full-stack developer from Kazakhstan" /></p>
 
-## Selected work
+**Tools I build with** &nbsp; `TypeScript` `React` `Next.js` `Node.js` `Express` `SQL` `Python`
 
-<p align="center">
-  <a href="https://github.com/KazakbayZhanibek/edumatch.kz"><img src="./assets/edumatch.png" width="374" alt="EduMatch KZ. Compare universities and find grants that fit your exam results. Open the project on GitHub." /></a>
-  <a href="https://rano-comfort.vercel.app/catalog"><img src="./assets/rano.png" width="374" alt="RANO Komfort Service. Browse household cleaners and choose delivery or pickup. Open the live catalog." /></a>
-</p>
+## Inside EduMatch KZ
 
-### Inside the code
+I’m building a university guide for students in Kazakhstan. A programme may fit a student’s exam results while its application deadline is still unverified. Here’s how the API flags that university for a second look.
 
-**EduMatch KZ** · The server checks exam scores and subject choices against each grant’s requirements. It flags missing information so applicants can see what still needs checking. [Grant matching in Express ↗](https://github.com/KazakbayZhanibek/edumatch.kz/blob/main/backend/grants-routes.js#L326)
+```js
+let status = 'notSuitable';
+if (candidate) {
+  const hasUnknownCritical = critical.some(
+    key => candidate.checks?.[key] === 'unverified'
+  );
+  status = hasUnknownCritical
+    ? 'needsClarification'
+    : 'matched';
+}
+```
 
-**RANO Komfort Service** · Checkout asks for an address when a shopper chooses delivery, validates the contact details, then sends the order to the API. [Checkout in Next.js ↗](https://github.com/KazakbayZhanibek/rano-comfort/blob/main/app/checkout/page.tsx#L79)
+[View the code in context ↗](https://github.com/KazakbayZhanibek/edumatch.kz/blob/10d4d11453ba9c7c35153d1a0df25a523acd4abf/backend/grants-routes.js#L247-L251) &nbsp; · &nbsp; [EduMatch repository](https://github.com/KazakbayZhanibek/edumatch.kz)
 
-<details>
-  <summary><b>More projects &amp; tools</b></summary>
-  <p><b>Belle Croissant Lyonnais</b> uses Django and PyWebView to bring bakery operations to the web and desktop.</p>
-  <p><b>Forum Platform</b> is a SQL-backed discussion forum with user roles and an XP system.</p>
-  <p>I also work with React, TypeScript, Python, C#, .NET, SQL Server, Git and Docker. I’m currently studying backend architecture and system design.</p>
-  <p><a href="https://github.com/KazakbayZhanibek?tab=repositories">All repositories ↗</a></p>
-</details>
+### Elsewhere in my code
 
----
+**[RANO Komfort Service](https://rano-comfort.vercel.app/catalog)** · A Next.js storefront for household supplies. Checkout requires an address for home delivery. [Checkout implementation ↗](https://github.com/KazakbayZhanibek/rano-comfort/blob/d4a81af8ae487a2ac3229de344191c76a8c5b5d8/app/checkout/page.tsx#L89-L92)
 
-[Telegram · @tibio_404](https://t.me/tibio_404) &nbsp; · &nbsp; [Email](mailto:janibekkaz3@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359)
+**Belle Croissant Lyonnais** · A Django app for bakery operations, with a desktop interface built using PyWebView.
+
+[Telegram](https://t.me/tibio_404) &nbsp; · &nbsp; [Email](mailto:janibekkaz3@gmail.com) &nbsp; · &nbsp; [LinkedIn](https://kz.linkedin.com/in/zhanibek-kazakbay-7a1909359)
