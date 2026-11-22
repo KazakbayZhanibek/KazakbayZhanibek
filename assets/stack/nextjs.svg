@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="38" viewBox="0 0 108 38" role="img" aria-labelledby="nextjs-title">
+  <title id="nextjs-title">Next.js — React application framework</title>
+  <rect x="0.5" y="0.5" width="107" height="37" rx="5.5" fill="#E0DEF2" stroke="#BCB6DD"/>
+  <circle cx="21" cy="19" r="10.5" fill="#302B49"/>
+  <path d="M17 24V14L25 24V14" fill="none" stroke="#F6F3FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="42" y="24" fill="#302B49" font-family="Arial,Helvetica,sans-serif" font-size="13.5" font-weight="600">Next.js</text>
+</svg>

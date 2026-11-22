@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="38" viewBox="0 0 83 38" role="img" aria-labelledby="sql-title">
+  <title id="sql-title">SQL — relational data and queries</title>
+  <rect x="0.5" y="0.5" width="82" height="37" rx="5.5" fill="#FFC8AA" stroke="#E9A783"/>
+  <g fill="none" stroke="#7A4127" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M12.5 12.5V25.5C12.5 27.43 16.31 29 21 29S29.5 27.43 29.5 25.5V12.5"/>
+    <ellipse cx="21" cy="12.5" rx="8.5" ry="3.5"/>
+    <path d="M12.5 19C12.5 20.93 16.31 22.5 21 22.5S29.5 20.93 29.5 19"/>
+  </g>
+  <text x="42" y="24" fill="#59331F" font-family="Arial,Helvetica,sans-serif" font-size="13.5" font-weight="600">SQL</text>
+</svg>

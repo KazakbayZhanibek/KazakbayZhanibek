@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="38" viewBox="0 0 130 38" role="img" aria-labelledby="typescript-title">
+  <title id="typescript-title">TypeScript — typed JavaScript</title>
+  <rect x="0.5" y="0.5" width="129" height="37" rx="5.5" fill="#C8E7FF" stroke="#93C6ED"/>
+  <rect x="11" y="9" width="20" height="20" rx="2" fill="#2368A2"/>
+  <text x="21" y="23.1" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700">TS</text>
+  <text x="42" y="24" fill="#15334B" font-family="Arial,Helvetica,sans-serif" font-size="13.5" font-weight="600">TypeScript</text>
+</svg>
